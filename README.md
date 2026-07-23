@@ -1,6 +1,6 @@
 # Cradlewell 🌿    
 
-cradelwell.netlify.app -- the link to th ewebsite
+https://cradelwell.netlify.app/ -- the link to th ewebsite
 
 > Nurse-led postnatal & newborn care, delivered home — Bangalore
 
